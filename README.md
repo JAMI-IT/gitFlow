@@ -1,3 +1,1 @@
 # gitFlow
-
-### Ready for release
